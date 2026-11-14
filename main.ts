@@ -1,8 +1,8 @@
 // food-picture-01 entry (Node 22, standard library only): its image is the entry.png beside this file,
 // and the program copies it to /output/entry.png. The picture is one clear hero dish, shot overhead:
 // a steaming mound of nasi goreng topped with a glossy fried egg, charred chicken satay, peanut
-// sauce, sambal, lime and cucumber on dark stone, warm light leading the eye to the food. The file
-// holds JPEG bytes under the entry.png name, which the gate accepts (it tells PNG and JPEG apart by
+// sauce, sambal, lime and cucumber on dark stone, warm light leading the eye to the food. The
+// image is 1024x683 pixels and 221,719 bytes, inside the gate limits. The file holds JPEG bytes under the entry.png name, which the gate accepts (it tells PNG and JPEG apart by
 // their first bytes). The gate takes a whole PNG or JPEG of at most 1 MiB and 1024 by 1024 pixels,
 // and the judge sees exactly the bytes copied.
 //
